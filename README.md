@@ -2,20 +2,20 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=𝚄𝚖𝚖𝚖.....+𝚆𝚎𝚕𝚌𝚘𝚖𝚎+𝚝𝚘+𝚖𝚢+𝚙𝚛𝚘𝚏𝚒𝚕𝚎...😳"
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=𝐊𝐨𝐧𝐧𝐢𝐜𝐡𝐢𝐰𝐚𝐚𝐚+𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐭𝐨+𝐦𝐲+𝐩𝐫𝐨𝐟𝐢𝐥𝐞..."
             alt="Typing SVG"
-         />
+        />
     </a>
- <a href="https://imgbb.com/"><img src="https://i.ibb.co/HPcLrwX/koo-gif.gif" alt="koo-gif" border="0"></a>
-## <!-- Typing SVG -->
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/SwPDgx0/a58e55bb82120cbeed6a09e6613eb82b.gif" alt="vanitas" border="0"></a>
+    <!-- Typing SVG -->
 <p align="center">
-    <a href="https://git.io/J0hKr">
+<a href="https://git.io/J0hKr">
         <img
-        src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&color=1B961A&lines=𝙷𝚒........;𝙸'𝚖+𝚔𝚘𝚖𝚒+𝚜𝚊𝚗𝚗;𝚊𝚝+𝚢𝚘𝚞𝚛;𝚜𝚎𝚛𝚟𝚒𝚌𝚎+%F0%9F%98%8D%3F"
+        src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&color=1B961A&lines=Hi....%F0%9F%91%8B.....;It's+me....;Guess+who%3F;akuma+%F0%9F%98%8D"
             alt="Typing SVG"
-        /> <a href="https://imgbb.com/"><img src="https://i.ibb.co/nM473BB/ko-gif.gif" alt="ko-gif" border="0"></a>
-<h3 align="center">| 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 |</h3>
-
+        /> <a href="https://imgbb.com/"><img src="https://i.ibb.co/hHGf8rg/vanitass.gif" alt="vanitass" border="0"></a>
+<h3 align="center">| 𝐋𝐞𝐚𝐫𝐧𝐞𝐫 | 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 |</h3>
+    
 - 𝚂𝚑𝚢 𝚙𝚎𝚛𝚜𝚘𝚗 😳
 
 - 𝙹𝚞𝚜𝚝 𝚊 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 ☘️
