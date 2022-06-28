@@ -6,14 +6,14 @@
             alt="Typing SVG"
         />
     </a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/HPcLrwX/koo-gif.gif" alt="koo-gif" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/30LBMMP/komisan-gif.gif" alt="komisan-gif" border="0"></a>
     <!-- Typing SVG -->
 <p align="center">
 <a href="https://git.io/J0hKr">
         <img
         src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&color=1B961A&lines=𝙷𝚒........;𝙸'𝚖+𝚔𝚘𝚖𝚒+𝚜𝚊𝚗𝚗;𝚊𝚝+𝚢𝚘𝚞𝚛;𝚜𝚎𝚛𝚟𝚒𝚌𝚎+%F0%9F%98%8D%3F"
             alt="Typing SVG"
-        /> <a href="https://imgbb.com/"><img src="https://i.ibb.co/30LBMMP/komisan-gif.gif" alt="komisan-gif" border="0"></a>
+        /> <a href="https://imgbb.com/"><img src="https://i.ibb.co/HPcLrwX/koo-gif.gif" alt="koo-gif" border="0"></a>
 <h3 align="center">| 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 |</h3>
     
 - 𝚂𝚑𝚢 𝚙𝚎𝚛𝚜𝚘𝚗 😳
