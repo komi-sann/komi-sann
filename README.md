@@ -35,10 +35,9 @@
 <img align="right" alt="count" src="https://count.getloli.com/get/@:komi-sann?theme=rule34">
   
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/VYpQHTC/vaannitas.gif" alt="vaannitas" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/PztFsg8/komi.gif" alt="komi" border="0"></a>
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0bayzsrvnvivnrnxg4te2b1vb&cover_image=true&theme=default)](https://github.com/
-komi-sann/komi-sann)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0bayzsrvnvivnrnxg4te2b1vb&cover_image=true&theme=default)](https://github.com/komisann/komi-sann)
 
 <img src="https://github-readme-stats.vercel.app/api?username=komi-sann&show_icons=true&theme=blue&show_owner=true&count_private=true">
   
@@ -46,11 +45,11 @@ komi-sann/komi-sann)
 
   
   
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/3T9gkCg/jeanne.webp" alt="jeanne" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/JjGTnZg/komisa.gif" alt="komisa" border="0"></a>
 
 
-## 𝓕𝓸𝓵𝓵𝓸𝔀 𝓶𝓮 𝓸𝓷 ( ꈍᴗꈍ)
-**Github** [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/akuma-demon) | **Instagram** [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/akuma__24/) | **YouTube** [<img src="https://img.icons8.com/nolan/240/youtube.png" alt='YouTube' height='32'>](https://www.youtube.com/channel/UChrGVH0nOxMg6zk6YAr2TXg)
+## 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚎 𝚘𝚗 🎀🎀
+**Github** [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/komi-sann) | **Instagram** [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/kate.abramson.967/) | **YouTube** [<img src="https://img.icons8.com/nolan/240/youtube.png" alt='YouTube' height='32'>](https://www.youtube.com/channel/UChrGVH0nOxMg6zk6YAr2TXg)
 
 
-## 𝓗𝓪𝓿𝓮 𝓪 𝓰𝓻𝓮𝓪𝓽 𝓭𝓪𝔂 𝓼𝓮𝓮 𝔂𝓪 💫
+## 𝙷𝚊𝚟𝚎 𝚊 𝚗𝚒𝚌𝚎 𝚍𝚊𝚢 𝚖𝚒𝚗𝚗𝚊 🎀
