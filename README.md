@@ -14,7 +14,7 @@
         src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&color=1B961A&lines=𝙷𝚒........;𝙸'𝚖+𝚔𝚘𝚖𝚒+𝚜𝚊𝚗𝚗;𝚊𝚝+𝚢𝚘𝚞𝚛;𝚜𝚎𝚛𝚟𝚒𝚌𝚎+%F0%9F%98%8D%3F"
             alt="Typing SVG"
         /> <a href="https://imgbb.com/"><img src="https://i.ibb.co/nM473BB/ko-gif.gif" alt="ko-gif" border="0"></a>
-<h3 align="center">| 𝐋𝐞𝐚𝐫𝐧𝐞𝐫 | 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 |</h3>
+<h3 align="center">| 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 |</h3>
     
 - 𝚂𝚑𝚢 𝚙𝚎𝚛𝚜𝚘𝚗 😳
 
