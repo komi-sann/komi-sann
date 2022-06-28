@@ -12,7 +12,7 @@
         <img
         src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&color=1B961A&lines=Hi....%F0%9F%91%8B.....;It's+me....;Guess+who%3F;akuma+%F0%9F%98%8D"
             alt="Typing SVG"
-        /> <a href="https://imgbb.com/"><img src="https://i.ibb.co/hHGf8rg/vanitass.gif" alt="vanitass" border="0"></a>
+        /> <a href="https://imgbb.com/"><img src="https://i.ibb.co/nM473BB/ko-gif.gif" alt="ko-gif" border="0"></a>
 <h3 align="center">| 𝐋𝐞𝐚𝐫𝐧𝐞𝐫 | 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 |</h3>
 
 - 𝚂𝚑𝚢 𝚙𝚎𝚛𝚜𝚘𝚗 😳
